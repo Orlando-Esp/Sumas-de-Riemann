@@ -8,7 +8,7 @@
 % Notes			:Requiere aplicacion octave-online usar en consola preferentemente. 
 %program execution page :https://octave-online.net
 clear
-fprintf ('El  valor del primer ejercicio es 44u^2')
+fprintf ('El  valor del ejercicio es 44u^2')
 fprintf ('Grafica')
 x=-3:0.01:3;
 y=(3(1/3)(x²);
