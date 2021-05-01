@@ -1,6 +1,6 @@
 % Octave Script
 % Title			:Sumatoria de Riemann_supeiores_e_inferiores.
-% Description		:Script para desarrrollar el ejericio 3 de la actividad Sumatoria de Riemann_supeiores_e_inferiores.
+% Description		:Script para desarrrollar el ejericio 4 de la actividad Sumatoria de Riemann_supeiores_e_inferiores.
 % Author		:Orlando Espinoza Valentin (Orlando-Esp) espinozaorlando978@gmail.com
 % Date			:20210429
 % sion		        :1
