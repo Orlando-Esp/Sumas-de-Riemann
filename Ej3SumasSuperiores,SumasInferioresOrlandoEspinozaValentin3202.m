@@ -8,7 +8,7 @@
 % Notes			:Requiere aplicacion octave-online usar en consola preferentemente. 
 %program execution page :https://octave-online.net
 clear
-fprintf ('El  AREA del tercer ejercicio es 13/2u^2')
+fprintf ('El  AREA del ejercicio es 13/2u^2')
 fprintf ('Grafica')
 x=-2:0.01:3;
 y=(-x+1);
